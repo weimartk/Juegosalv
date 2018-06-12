@@ -1,0 +1,33 @@
+.fondo
+{
+    background: white;
+}
+h1
+{
+    color: snow;
+}
+a
+{
+    color: blue;
+}
+.fondo
+{
+    background: gray;
+    position: center;
+    height: 50%;
+    width: 50%;
+}
+.cubo
+{
+    background: white;
+    position: center;
+    height: 20%;
+    width: 30%;
+}
+.fondo1
+{
+    background: rgb(179, 180, 211);
+    position: width;
+    height: 20%;
+    width: 40%;
+}

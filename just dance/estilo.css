@@ -1,0 +1,29 @@
+
+.box{
+  width:1000;
+  height:550;
+  background: orange;
+
+  animation: color 5s infinite alternate;
+}
+@keyframes color {
+  to{
+    background:red;
+  }
+
+}
+.color{
+  width:1000;
+  height:550;
+  background: orange;
+
+  animation: color 2s infinite alternate;
+}
+@keyframes color {
+  to{
+    background:red;
+  }
+
+}
+
+.imagen:hover {filter: saturate(180%);}
